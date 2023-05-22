@@ -4,12 +4,15 @@ h1{
     text-align: center;
 }
 h2{
+    color:#AD392A;
     background-color:#FF8170;
 }
 h3{
+    color:#AD392A;
     background-color:#FF8170;
 }
 h4{
+    color:#AD392A;
     background-color:#FF8170;
 }
 p{
@@ -18,9 +21,11 @@ p{
 }
 ul{
     background-color:#FF8170;
+    color:#AD392A;
 }
-ol{
+li{
     background-color:#FF8170;
+    color:#AD392A;
 }
 body{
     background-color:#FF8170;
@@ -30,7 +35,7 @@ head{
 }
 hr{
     border-width: 0px;
-    height:2px;
+    height:1px;
     color: #18AD64;
     background-color: #18AD64;
 }
