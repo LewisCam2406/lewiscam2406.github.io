@@ -1,0 +1,45 @@
+h1{
+    color:#AD392A;
+    background-color:#FF8170;
+    text-align: center;
+}
+h2{
+    color:#AD392A;
+    background-color:#FF8170;
+}
+h3{
+    color:#AD392A;
+    background-color:#FF8170;
+}
+h4{
+    color:#AD392A;
+    background-color:#FF8170;
+}
+p{
+    color:#AD392A;
+    background-color:#FF8170;
+}
+ul{
+    background-color:#FF8170;
+    color:#AD392A;
+}
+li{
+    background-color:#FF8170;
+    color:#AD392A;
+}
+body{
+    background-color:#FF8170;
+}
+head{
+    background-color:#FF8170;
+}
+hr{
+    border-width: 0px;
+    height:1px;
+    color: #18AD64;
+    background-color: #18AD64;
+}
+a{
+    background-color:#FF8170;
+    color: #18AD64;
+}
