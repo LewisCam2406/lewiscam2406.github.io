@@ -1,0 +1,45 @@
+h1{
+    color:#B31E5C;
+    background-color:#369FB3;
+    text-align: center;
+}
+h2{
+    color:#B31E5C;
+    background-color:#369FB3;
+}
+h3{
+    color:#B31E5C;
+    background-color:#369FB3;
+}
+h4{
+    color:#B31E5C;
+    background-color:#369FB3;
+}
+p{
+    color:#B31E5C;
+    background-color:#369FB3;
+}
+ul{
+    background-color:#369FB3;
+    color:#B31E5C;
+}
+li{
+    background-color:#369FB3;
+    color:#B31E5C;
+}
+body{
+    background-color:#369FB3;
+}
+head{
+    background-color:#369FB3;
+}
+hr{
+    border-width: 0px;
+    height:1px;
+    color: #2BDCFF;
+    background-color: #2BDCFF;
+}
+a{
+    background-color:#369FB3;
+    color: #2BDCFF;
+}
